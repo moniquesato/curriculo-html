@@ -17,4 +17,6 @@ O projeto foi desenvolvido como parte dos meus estudos em desenvolvimento web, c
 (Em breve disponível online)
 
 ## 👩‍💻 Autora
-Monique Sato   
+Monique Sato
+
+Projeto em constante evolução 🚀
